@@ -5,12 +5,15 @@
 # Authors
 
 Nishi Mishra — matrix math & solver derivation
+
 Hassan Niaz — Thomas-algorithm heat-solver implementation
 
 Layan Samandar — OBJ scaling, thickness parsing, mass calc
+
 Parina Patel — OBJ scaling, thickness parsing, mass calc
 
 Bihao Zhang — Visualization - GUI, thickness plots, color Map, CMakeLists, Error Handling
+
 Naveen Jagadeesan — Visualization - GUI Interactive Viewer, Rendering the thickness plots in the viewer, Color Map, Error Handling
 
 
